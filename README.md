@@ -14,3 +14,6 @@ Python script inputs:
 
 Python script output:
 * database filled with the data
+
+## Technology 
+* Python (psycopg2 module)
