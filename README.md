@@ -10,3 +10,7 @@ Python script inputs:
 * AthleteEvents.csv (formatted to xlsb in order to reduce files' size)
 * HostCities.csv
 * NOCRegions.csv
+
+
+Python script output:
+* database filled with the data
